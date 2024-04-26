@@ -6,4 +6,6 @@ Structure du Projet
 - `js/` : Scripts JavaScript du site.
 - Licence
 
+Ce projet nous permet d'ajouter des taches sur notre projet 
+
 Ce projet est sous licence MIT.
